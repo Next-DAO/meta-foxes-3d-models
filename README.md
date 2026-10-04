@@ -1,8 +1,8 @@
 # Meta Foxes · 3D 角色视觉素材
 
-按角色编号整理 Meta Foxes 的三视图与抬头看镜头分组图，提供图片预览、编号索引和文件校验记录，方便查找角色、浏览造型与查阅建模参考。
+按角色编号整理 Meta Foxes 的三视图、抬头看镜头分组图与大合照，提供图片预览、编号索引和文件校验记录，方便查找角色、浏览造型与查阅建模参考。
 
-[项目官网](https://metafox.nextdao.xyz/zh) · [按组浏览](look-up/README.md#按组浏览) · [角色编号索引](look-up/characters.csv) · [下载全部素材](https://github.com/Next-DAO/meta-foxes-3d-models/archive/refs/heads/main.zip)
+[项目官网](https://metafox.nextdao.xyz/zh) · [大合照](group-photo/MetaFox_217_Overhead.png) · [按组浏览](look-up/README.md#按组浏览) · [角色编号索引](look-up/characters.csv) · [下载全部素材](https://github.com/Next-DAO/meta-foxes-3d-models/archive/refs/heads/main.zip)
 
 ## 关于 Meta Foxes
 
@@ -20,14 +20,21 @@
 
 点击预览图可打开原图。
 
+### 大合照
+
+`MetaFox_217_Overhead.png` 为角色大合照，原图尺寸 **8100 × 5400**，文件约 **58.3 MB**，保留上传时的原始 PNG 内容与文件名。
+
+[查看文件](group-photo/MetaFox_217_Overhead.png) · [打开或下载高清原图](https://raw.githubusercontent.com/Next-DAO/meta-foxes-3d-models/main/group-photo/MetaFox_217_Overhead.png)
+
 ## 当前收录
 
 | 素材 | 文件数量 | 覆盖角色 | 规格 | 位置 |
 | --- | --- | --- | --- | --- |
 | 角色三视图 | 217 张 | 217 个编号 | PNG，1536 × 1024 | 各编号目录，如 [001/001.png](001/001.png) |
 | 抬头看镜头分组图 | 44 张 | 同一批 217 个编号 | PNG，1536 × 1024 | [look-up/groups/](look-up/groups/) |
+| 角色大合照 | 1 张 | 217 角色集合图 | PNG，8100 × 5400 | [group-photo/MetaFox_217_Overhead.png](group-photo/MetaFox_217_Overhead.png) |
 
-共 **261 张 PNG**，图片文件合计约 **634 MB**（不含 Git 历史）。这里的角色数量指本仓库已收录的素材数量。
+共 **262 张 PNG**，图片文件合计约 **693 MB**（不含 Git 历史）。这里的角色数量指本仓库已收录的素材数量。
 
 三视图用于查看同一角色的不同角度与造型细节。分组图采用上方俯拍、角色抬头看镜头的构图：前 43 组每组 5 个角色，最后一组包含 `221`、`222` 两个角色。
 
@@ -43,6 +50,9 @@ meta-foxes-3d-models/
 ├── …
 ├── 222/
 │   └── 222.png
+├── group-photo/
+│   ├── MetaFox_217_Overhead.png         # 高清大合照
+│   └── manifest.json                  # 大合照尺寸、字节数与校验值
 └── look-up/
     ├── README.md                       # 分组图说明与浏览目录
     ├── groups.csv                      # 44 组图片索引
@@ -102,8 +112,9 @@ git clone --depth 1 https://github.com/Next-DAO/meta-foxes-3d-models.git
 | [look-up/groups.csv](look-up/groups.csv) | 组号、角色数量、角色编号顺序、图片尺寸、当前路径与原文件名 |
 | [look-up/characters.csv](look-up/characters.csv) | 每个角色的组号、图内位置、分组图路径、三视图路径与原文件名 |
 | [look-up/manifest.json](look-up/manifest.json) | 44 张分组图的完整映射、字节数、SHA-256 与 Git Blob SHA-1 |
+| [group-photo/manifest.json](group-photo/manifest.json) | 大合照的文件名、尺寸、字节数、SHA-256 与 Git Blob SHA-1 |
 
-CSV 与 JSON 内的文件路径均相对于 **`look-up/` 目录**。例如，`groups/group-01_001_002_003_004_005.png` 指向分组图，`../001/001.png` 指向仓库根目录下的三视图。
+`look-up/` 下的 CSV 与 JSON 内的文件路径均相对于 **`look-up/` 目录**。例如，`groups/group-01_001_002_003_004_005.png` 指向分组图，`../001/001.png` 指向仓库根目录下的三视图。
 
 图片入库时按源文件原样复制，整理过程只调整目录与文件名。分组图的原文件名保留在索引和清单中，便于追溯。`look-up/manifest.json` 的校验范围为 44 张分组图。
 
