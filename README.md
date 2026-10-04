@@ -2,7 +2,15 @@
 
 按角色编号整理 Meta Foxes 的三视图、抬头看镜头分组图与大合照，提供图片预览、编号索引和文件校验记录，方便查找角色、浏览造型与查阅建模参考。
 
-[项目官网](https://metafox.nextdao.xyz/zh) · [大合照](group-photo/MetaFox_217_Overhead.png) · [按组浏览](look-up/README.md#按组浏览) · [角色编号索引](look-up/characters.csv) · [下载全部素材](https://github.com/Next-DAO/meta-foxes-3d-models/archive/refs/heads/main.zip)
+[互动合影网站](https://next-dao.github.io/meta-foxes-3d-models/) · [项目官网](https://metafox.nextdao.xyz/zh) · [大合照](group-photo/MetaFox_217_Overhead.png) · [按组浏览](look-up/README.md#按组浏览) · [角色编号索引](look-up/characters.csv) · [下载全部素材](https://github.com/Next-DAO/meta-foxes-3d-models/archive/refs/heads/main.zip)
+
+## 互动合影网站
+
+在线访问：**[Meta Foxes · 小狐狸合影](https://next-dao.github.io/meta-foxes-3d-models/)**。
+
+支持 217 只狐狸的悬停互动、编号搜索定位、点击查看大图，以及从详情进入对应编号的 GitHub 文件夹或[提交修改建议](https://forms.gle/xdJUBysg2JYLZktV6)。角色编号与本仓库一致。
+
+网站源文件为根目录的 `index.html`、`fox-assets-1.js`、`fox-assets-2.js` 和 `fox-assets-3.js`，无需构建或安装依赖。三个资源包内嵌全部角色图片，更新时请将四个文件一起提交。GitHub Pages 使用 `main` 分支的根目录，提交后自动发布；部署状态可在仓库的 Actions 和 Settings → Pages 查看。
 
 ## 关于 Meta Foxes
 
