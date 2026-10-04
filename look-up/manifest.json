@@ -1,0 +1,1727 @@
+{
+  "schema_version": 1,
+  "title": "MetaFox｜抬头看镜头的分组图",
+  "group_count": 44,
+  "character_count": 217,
+  "total_bytes": 101582925,
+  "path_base": "Paths are relative to this look-up directory.",
+  "position_order": [
+    "左上",
+    "中上",
+    "右上",
+    "左下",
+    "中下"
+  ],
+  "missing_source_ids": [
+    "018",
+    "021",
+    "111",
+    "158",
+    "165"
+  ],
+  "description": "镜头从上方俯拍，角色抬头看镜头并做可爱动作。",
+  "image_preservation": "PNG bytes match the original files; only paths and filenames changed.",
+  "files": [
+    {
+      "group": "01",
+      "filename": "group-01_001_002_003_004_005.png",
+      "path": "groups/group-01_001_002_003_004_005.png",
+      "source_filename": "组01_001_002_003_004_005_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "001",
+          "position": "左上",
+          "base_image": "../001/001.png"
+        },
+        {
+          "id": "002",
+          "position": "中上",
+          "base_image": "../002/002.png"
+        },
+        {
+          "id": "003",
+          "position": "右上",
+          "base_image": "../003/003.png"
+        },
+        {
+          "id": "004",
+          "position": "左下",
+          "base_image": "../004/004.png"
+        },
+        {
+          "id": "005",
+          "position": "中下",
+          "base_image": "../005/005.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2210870,
+      "sha256": "eda0e23f4b7f74b2c407c92c480f14c15f6b153d1f8d3b397d17e52f42cdbab1",
+      "git_blob_sha1": "73da89eae857bc4a39ca57a7b0f6f2c5869a5355"
+    },
+    {
+      "group": "02",
+      "filename": "group-02_006_007_008_009_010.png",
+      "path": "groups/group-02_006_007_008_009_010.png",
+      "source_filename": "组02_006_007_008_009_010_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "006",
+          "position": "左上",
+          "base_image": "../006/006.png"
+        },
+        {
+          "id": "007",
+          "position": "中上",
+          "base_image": "../007/007.png"
+        },
+        {
+          "id": "008",
+          "position": "右上",
+          "base_image": "../008/008.png"
+        },
+        {
+          "id": "009",
+          "position": "左下",
+          "base_image": "../009/009.png"
+        },
+        {
+          "id": "010",
+          "position": "中下",
+          "base_image": "../010/010.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2234418,
+      "sha256": "841bde5ce8b041badcef3f1dcd4a78df45df328a3abfb600b1e94011e8318cc9",
+      "git_blob_sha1": "3aab9723698dd1ddd5b167bfe46d452bb46269f8"
+    },
+    {
+      "group": "03",
+      "filename": "group-03_011_012_013_014_015.png",
+      "path": "groups/group-03_011_012_013_014_015.png",
+      "source_filename": "组03_011_012_013_014_015_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "011",
+          "position": "左上",
+          "base_image": "../011/011.png"
+        },
+        {
+          "id": "012",
+          "position": "中上",
+          "base_image": "../012/012.png"
+        },
+        {
+          "id": "013",
+          "position": "右上",
+          "base_image": "../013/013.png"
+        },
+        {
+          "id": "014",
+          "position": "左下",
+          "base_image": "../014/014.png"
+        },
+        {
+          "id": "015",
+          "position": "中下",
+          "base_image": "../015/015.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2346521,
+      "sha256": "2eedfaa3642d3117bb896b2d6fc2c2b29a4d3c70b01822f8a626dd97c99f5131",
+      "git_blob_sha1": "dca8e345c8a23b1a4a42fcd5e560efe30659a11b"
+    },
+    {
+      "group": "04",
+      "filename": "group-04_016_017_019_020_022.png",
+      "path": "groups/group-04_016_017_019_020_022.png",
+      "source_filename": "组04_016_017_019_020_022_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "016",
+          "position": "左上",
+          "base_image": "../016/016.png"
+        },
+        {
+          "id": "017",
+          "position": "中上",
+          "base_image": "../017/017.png"
+        },
+        {
+          "id": "019",
+          "position": "右上",
+          "base_image": "../019/019.png"
+        },
+        {
+          "id": "020",
+          "position": "左下",
+          "base_image": "../020/020.png"
+        },
+        {
+          "id": "022",
+          "position": "中下",
+          "base_image": "../022/022.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2271666,
+      "sha256": "efb8c9eff799775a494fcf3cb2d9530e948731a8c6ea2ef3c52823b3ee0d1132",
+      "git_blob_sha1": "d8abb8f33fcd9a1d0edf1dc6456f725c02f3037d"
+    },
+    {
+      "group": "05",
+      "filename": "group-05_023_024_025_026_027.png",
+      "path": "groups/group-05_023_024_025_026_027.png",
+      "source_filename": "组05_023_024_025_026_027_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "023",
+          "position": "左上",
+          "base_image": "../023/023.png"
+        },
+        {
+          "id": "024",
+          "position": "中上",
+          "base_image": "../024/024.png"
+        },
+        {
+          "id": "025",
+          "position": "右上",
+          "base_image": "../025/025.png"
+        },
+        {
+          "id": "026",
+          "position": "左下",
+          "base_image": "../026/026.png"
+        },
+        {
+          "id": "027",
+          "position": "中下",
+          "base_image": "../027/027.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2219431,
+      "sha256": "09359e6ceaf0b053e4777dc75a3ff0c7b546dee041365490491bbd936f2d53ee",
+      "git_blob_sha1": "f03ceafec88e33500a47be363b4089a5c111dc37"
+    },
+    {
+      "group": "06",
+      "filename": "group-06_028_029_030_031_032.png",
+      "path": "groups/group-06_028_029_030_031_032.png",
+      "source_filename": "组06_028_029_030_031_032_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "028",
+          "position": "左上",
+          "base_image": "../028/028.png"
+        },
+        {
+          "id": "029",
+          "position": "中上",
+          "base_image": "../029/029.png"
+        },
+        {
+          "id": "030",
+          "position": "右上",
+          "base_image": "../030/030.png"
+        },
+        {
+          "id": "031",
+          "position": "左下",
+          "base_image": "../031/031.png"
+        },
+        {
+          "id": "032",
+          "position": "中下",
+          "base_image": "../032/032.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2482228,
+      "sha256": "c8c4533a2d8dc0c32d4320d58ef319370de5450e70ffe535ac7f847d954654f1",
+      "git_blob_sha1": "103e87ad2265640c91f17251dfd6e984a733c5ae"
+    },
+    {
+      "group": "07",
+      "filename": "group-07_033_034_035_036_037.png",
+      "path": "groups/group-07_033_034_035_036_037.png",
+      "source_filename": "组07_033_034_035_036_037_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "033",
+          "position": "左上",
+          "base_image": "../033/033.png"
+        },
+        {
+          "id": "034",
+          "position": "中上",
+          "base_image": "../034/034.png"
+        },
+        {
+          "id": "035",
+          "position": "右上",
+          "base_image": "../035/035.png"
+        },
+        {
+          "id": "036",
+          "position": "左下",
+          "base_image": "../036/036.png"
+        },
+        {
+          "id": "037",
+          "position": "中下",
+          "base_image": "../037/037.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2509848,
+      "sha256": "a7ed8f08ae5d76a7576944972fc0684142ecf53148efefac4c27e33cfee2d23f",
+      "git_blob_sha1": "7e1856d04bcedc8e41d2baa0492e55794b1bf3fb"
+    },
+    {
+      "group": "08",
+      "filename": "group-08_038_039_040_041_042.png",
+      "path": "groups/group-08_038_039_040_041_042.png",
+      "source_filename": "组08_038_039_040_041_042_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "038",
+          "position": "左上",
+          "base_image": "../038/038.png"
+        },
+        {
+          "id": "039",
+          "position": "中上",
+          "base_image": "../039/039.png"
+        },
+        {
+          "id": "040",
+          "position": "右上",
+          "base_image": "../040/040.png"
+        },
+        {
+          "id": "041",
+          "position": "左下",
+          "base_image": "../041/041.png"
+        },
+        {
+          "id": "042",
+          "position": "中下",
+          "base_image": "../042/042.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2372381,
+      "sha256": "9134bb7c7e428632c1546d7bd1a0bd1635a852db8ce9bd34ed6403c4a6206236",
+      "git_blob_sha1": "1fc93894988967dd7e561e66fd95f5243f59a481"
+    },
+    {
+      "group": "09",
+      "filename": "group-09_043_044_045_046_047.png",
+      "path": "groups/group-09_043_044_045_046_047.png",
+      "source_filename": "组09_043_044_045_046_047_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "043",
+          "position": "左上",
+          "base_image": "../043/043.png"
+        },
+        {
+          "id": "044",
+          "position": "中上",
+          "base_image": "../044/044.png"
+        },
+        {
+          "id": "045",
+          "position": "右上",
+          "base_image": "../045/045.png"
+        },
+        {
+          "id": "046",
+          "position": "左下",
+          "base_image": "../046/046.png"
+        },
+        {
+          "id": "047",
+          "position": "中下",
+          "base_image": "../047/047.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2303226,
+      "sha256": "7952c82e568a7973f355ad09418bc48bccacf729f8a17d6e8ec0ce24f867756a",
+      "git_blob_sha1": "9e72916058cdea4486ddd0b998d65cf0af214662"
+    },
+    {
+      "group": "10",
+      "filename": "group-10_048_049_050_051_052.png",
+      "path": "groups/group-10_048_049_050_051_052.png",
+      "source_filename": "组10_048_049_050_051_052_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "048",
+          "position": "左上",
+          "base_image": "../048/048.png"
+        },
+        {
+          "id": "049",
+          "position": "中上",
+          "base_image": "../049/049.png"
+        },
+        {
+          "id": "050",
+          "position": "右上",
+          "base_image": "../050/050.png"
+        },
+        {
+          "id": "051",
+          "position": "左下",
+          "base_image": "../051/051.png"
+        },
+        {
+          "id": "052",
+          "position": "中下",
+          "base_image": "../052/052.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2335138,
+      "sha256": "bad0fd33f07325773f7bb5ae32b4e334412d034416ba9c6325bf9ceadcb8c728",
+      "git_blob_sha1": "07c135f3473a565d6029621c74078de0eddc655b"
+    },
+    {
+      "group": "11",
+      "filename": "group-11_053_054_055_056_057.png",
+      "path": "groups/group-11_053_054_055_056_057.png",
+      "source_filename": "组11_053_054_055_056_057_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "053",
+          "position": "左上",
+          "base_image": "../053/053.png"
+        },
+        {
+          "id": "054",
+          "position": "中上",
+          "base_image": "../054/054.png"
+        },
+        {
+          "id": "055",
+          "position": "右上",
+          "base_image": "../055/055.png"
+        },
+        {
+          "id": "056",
+          "position": "左下",
+          "base_image": "../056/056.png"
+        },
+        {
+          "id": "057",
+          "position": "中下",
+          "base_image": "../057/057.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2376823,
+      "sha256": "d249d2d39184a9754d793be1305fe15e20e634ef4eee51ac9b8ad181af12f989",
+      "git_blob_sha1": "be7ef2e01d5fdbdac7c353524806c7e2798471e4"
+    },
+    {
+      "group": "12",
+      "filename": "group-12_058_059_060_061_062.png",
+      "path": "groups/group-12_058_059_060_061_062.png",
+      "source_filename": "组12_058_059_060_061_062_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "058",
+          "position": "左上",
+          "base_image": "../058/058.png"
+        },
+        {
+          "id": "059",
+          "position": "中上",
+          "base_image": "../059/059.png"
+        },
+        {
+          "id": "060",
+          "position": "右上",
+          "base_image": "../060/060.png"
+        },
+        {
+          "id": "061",
+          "position": "左下",
+          "base_image": "../061/061.png"
+        },
+        {
+          "id": "062",
+          "position": "中下",
+          "base_image": "../062/062.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2379426,
+      "sha256": "d6af8dd1d13e781ea9ed0891131546e51dc73ad678598c873c96f653dd98214d",
+      "git_blob_sha1": "6209d1d0e1d5438b88c9c98ce477c5be43632522"
+    },
+    {
+      "group": "13",
+      "filename": "group-13_063_064_065_066_067.png",
+      "path": "groups/group-13_063_064_065_066_067.png",
+      "source_filename": "组13_063_064_065_066_067_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "063",
+          "position": "左上",
+          "base_image": "../063/063.png"
+        },
+        {
+          "id": "064",
+          "position": "中上",
+          "base_image": "../064/064.png"
+        },
+        {
+          "id": "065",
+          "position": "右上",
+          "base_image": "../065/065.png"
+        },
+        {
+          "id": "066",
+          "position": "左下",
+          "base_image": "../066/066.png"
+        },
+        {
+          "id": "067",
+          "position": "中下",
+          "base_image": "../067/067.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2239771,
+      "sha256": "2b9dcd38087b92444592ae85916ce11cd222251c7265af66df6bddafd6d698eb",
+      "git_blob_sha1": "5d6143854041349e35c335b735b509baedb82b1b"
+    },
+    {
+      "group": "14",
+      "filename": "group-14_068_069_070_071_072.png",
+      "path": "groups/group-14_068_069_070_071_072.png",
+      "source_filename": "组14_068_069_070_071_072_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "068",
+          "position": "左上",
+          "base_image": "../068/068.png"
+        },
+        {
+          "id": "069",
+          "position": "中上",
+          "base_image": "../069/069.png"
+        },
+        {
+          "id": "070",
+          "position": "右上",
+          "base_image": "../070/070.png"
+        },
+        {
+          "id": "071",
+          "position": "左下",
+          "base_image": "../071/071.png"
+        },
+        {
+          "id": "072",
+          "position": "中下",
+          "base_image": "../072/072.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2301445,
+      "sha256": "ffbaa8a995524b04d62c1e77bc2e9e034577ccc13442f5035d6b203df1aba78d",
+      "git_blob_sha1": "5e42c318f58948ab080bd0bb11851bf90cf10df2"
+    },
+    {
+      "group": "15",
+      "filename": "group-15_073_074_075_076_077.png",
+      "path": "groups/group-15_073_074_075_076_077.png",
+      "source_filename": "组15_073_074_075_076_077_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "073",
+          "position": "左上",
+          "base_image": "../073/073.png"
+        },
+        {
+          "id": "074",
+          "position": "中上",
+          "base_image": "../074/074.png"
+        },
+        {
+          "id": "075",
+          "position": "右上",
+          "base_image": "../075/075.png"
+        },
+        {
+          "id": "076",
+          "position": "左下",
+          "base_image": "../076/076.png"
+        },
+        {
+          "id": "077",
+          "position": "中下",
+          "base_image": "../077/077.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2365115,
+      "sha256": "f3a47e731d7b46e4413559f8abd17077971937c97eb44286a1cd691c32e84c73",
+      "git_blob_sha1": "0b374ad340239592c35abbbbec3fdb62f1cf5e90"
+    },
+    {
+      "group": "16",
+      "filename": "group-16_078_079_080_081_082.png",
+      "path": "groups/group-16_078_079_080_081_082.png",
+      "source_filename": "组16_078_079_080_081_082_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "078",
+          "position": "左上",
+          "base_image": "../078/078.png"
+        },
+        {
+          "id": "079",
+          "position": "中上",
+          "base_image": "../079/079.png"
+        },
+        {
+          "id": "080",
+          "position": "右上",
+          "base_image": "../080/080.png"
+        },
+        {
+          "id": "081",
+          "position": "左下",
+          "base_image": "../081/081.png"
+        },
+        {
+          "id": "082",
+          "position": "中下",
+          "base_image": "../082/082.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2313401,
+      "sha256": "e55c8710b1ee48263307c77c4ce4890c3ef8704f29ff3ed71ad40481adc4eade",
+      "git_blob_sha1": "7a1a66400be9b6d4a327c6064341938a59279c73"
+    },
+    {
+      "group": "17",
+      "filename": "group-17_083_084_085_086_087.png",
+      "path": "groups/group-17_083_084_085_086_087.png",
+      "source_filename": "组17_083_084_085_086_087_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "083",
+          "position": "左上",
+          "base_image": "../083/083.png"
+        },
+        {
+          "id": "084",
+          "position": "中上",
+          "base_image": "../084/084.png"
+        },
+        {
+          "id": "085",
+          "position": "右上",
+          "base_image": "../085/085.png"
+        },
+        {
+          "id": "086",
+          "position": "左下",
+          "base_image": "../086/086.png"
+        },
+        {
+          "id": "087",
+          "position": "中下",
+          "base_image": "../087/087.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2181531,
+      "sha256": "bf8406affdd19f587098f6a9a829ed0c57bf83829bf2fdb7e433fd0a3dfbd5b9",
+      "git_blob_sha1": "080d5e4c56b6e838aecfcc282bee11dc031e3476"
+    },
+    {
+      "group": "18",
+      "filename": "group-18_088_089_090_091_092.png",
+      "path": "groups/group-18_088_089_090_091_092.png",
+      "source_filename": "组18_088_089_090_091_092_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "088",
+          "position": "左上",
+          "base_image": "../088/088.png"
+        },
+        {
+          "id": "089",
+          "position": "中上",
+          "base_image": "../089/089.png"
+        },
+        {
+          "id": "090",
+          "position": "右上",
+          "base_image": "../090/090.png"
+        },
+        {
+          "id": "091",
+          "position": "左下",
+          "base_image": "../091/091.png"
+        },
+        {
+          "id": "092",
+          "position": "中下",
+          "base_image": "../092/092.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2449392,
+      "sha256": "9c3f175c9b835a1cfd6b80ef7a9c7586e321818ae3bd6860d01fd5302dc0f58b",
+      "git_blob_sha1": "949a9d9a88a4408bb3f42dd00c8556fbf602d12a"
+    },
+    {
+      "group": "19",
+      "filename": "group-19_093_094_095_096_097.png",
+      "path": "groups/group-19_093_094_095_096_097.png",
+      "source_filename": "组19_093_094_095_096_097_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "093",
+          "position": "左上",
+          "base_image": "../093/093.png"
+        },
+        {
+          "id": "094",
+          "position": "中上",
+          "base_image": "../094/094.png"
+        },
+        {
+          "id": "095",
+          "position": "右上",
+          "base_image": "../095/095.png"
+        },
+        {
+          "id": "096",
+          "position": "左下",
+          "base_image": "../096/096.png"
+        },
+        {
+          "id": "097",
+          "position": "中下",
+          "base_image": "../097/097.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2355497,
+      "sha256": "5fabb321fe26a3b2b500094c4982cf85f7236c2ee4f118583fedb4c67fcc06b4",
+      "git_blob_sha1": "3fa9532f7b177a456c7cb2bbc3ed03c941724788"
+    },
+    {
+      "group": "20",
+      "filename": "group-20_098_099_100_101_102.png",
+      "path": "groups/group-20_098_099_100_101_102.png",
+      "source_filename": "组20_098_099_100_101_102_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "098",
+          "position": "左上",
+          "base_image": "../098/098.png"
+        },
+        {
+          "id": "099",
+          "position": "中上",
+          "base_image": "../099/099.png"
+        },
+        {
+          "id": "100",
+          "position": "右上",
+          "base_image": "../100/100.png"
+        },
+        {
+          "id": "101",
+          "position": "左下",
+          "base_image": "../101/101.png"
+        },
+        {
+          "id": "102",
+          "position": "中下",
+          "base_image": "../102/102.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2333602,
+      "sha256": "b1a58944fb3a1ae19ff2242551350ed6fba6a816d2db0e80ee4f36b2372a4705",
+      "git_blob_sha1": "c798d3e97920015fd4a5cefaa07677e8f0fe2ae3"
+    },
+    {
+      "group": "21",
+      "filename": "group-21_103_104_105_106_107.png",
+      "path": "groups/group-21_103_104_105_106_107.png",
+      "source_filename": "组21_103_104_105_106_107_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "103",
+          "position": "左上",
+          "base_image": "../103/103.png"
+        },
+        {
+          "id": "104",
+          "position": "中上",
+          "base_image": "../104/104.png"
+        },
+        {
+          "id": "105",
+          "position": "右上",
+          "base_image": "../105/105.png"
+        },
+        {
+          "id": "106",
+          "position": "左下",
+          "base_image": "../106/106.png"
+        },
+        {
+          "id": "107",
+          "position": "中下",
+          "base_image": "../107/107.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2278227,
+      "sha256": "1b8b0d60e0ceaf7f89659b91bbf8406154b8c9eaefc5642fb952dee46b9c5d27",
+      "git_blob_sha1": "008ff10a4cc74dc0346cb2ec340bbeda05ea54b1"
+    },
+    {
+      "group": "22",
+      "filename": "group-22_108_109_110_112_113.png",
+      "path": "groups/group-22_108_109_110_112_113.png",
+      "source_filename": "组22_108_109_110_112_113_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "108",
+          "position": "左上",
+          "base_image": "../108/108.png"
+        },
+        {
+          "id": "109",
+          "position": "中上",
+          "base_image": "../109/109.png"
+        },
+        {
+          "id": "110",
+          "position": "右上",
+          "base_image": "../110/110.png"
+        },
+        {
+          "id": "112",
+          "position": "左下",
+          "base_image": "../112/112.png"
+        },
+        {
+          "id": "113",
+          "position": "中下",
+          "base_image": "../113/113.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2274343,
+      "sha256": "c7a4795cd3b7914051a1da6807bb9e8b6deb3028c20fb435cb1ce1f9f34ff1ee",
+      "git_blob_sha1": "4283fef2d0d51734722bb601e88ff0c0b7ae803b"
+    },
+    {
+      "group": "23",
+      "filename": "group-23_114_115_116_117_118.png",
+      "path": "groups/group-23_114_115_116_117_118.png",
+      "source_filename": "组23_114_115_116_117_118_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "114",
+          "position": "左上",
+          "base_image": "../114/114.png"
+        },
+        {
+          "id": "115",
+          "position": "中上",
+          "base_image": "../115/115.png"
+        },
+        {
+          "id": "116",
+          "position": "右上",
+          "base_image": "../116/116.png"
+        },
+        {
+          "id": "117",
+          "position": "左下",
+          "base_image": "../117/117.png"
+        },
+        {
+          "id": "118",
+          "position": "中下",
+          "base_image": "../118/118.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2315062,
+      "sha256": "c039446776e98c8d4c2a34070ea34c2e29a05a0d6fc2110339ec89df3ad38af5",
+      "git_blob_sha1": "0c2e12c95d4d10a4a68f63e88683a43df6039da9"
+    },
+    {
+      "group": "24",
+      "filename": "group-24_119_120_121_122_123.png",
+      "path": "groups/group-24_119_120_121_122_123.png",
+      "source_filename": "组24_119_120_121_122_123_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "119",
+          "position": "左上",
+          "base_image": "../119/119.png"
+        },
+        {
+          "id": "120",
+          "position": "中上",
+          "base_image": "../120/120.png"
+        },
+        {
+          "id": "121",
+          "position": "右上",
+          "base_image": "../121/121.png"
+        },
+        {
+          "id": "122",
+          "position": "左下",
+          "base_image": "../122/122.png"
+        },
+        {
+          "id": "123",
+          "position": "中下",
+          "base_image": "../123/123.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2268662,
+      "sha256": "0a15abbe5e99509e481687670ec82439f07750cd0879640c0df588f9085a87cd",
+      "git_blob_sha1": "2a60e3e0e8ff54874877cf3a2ae86bb8a6ab4a4b"
+    },
+    {
+      "group": "25",
+      "filename": "group-25_124_125_126_127_128.png",
+      "path": "groups/group-25_124_125_126_127_128.png",
+      "source_filename": "组25_124_125_126_127_128_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "124",
+          "position": "左上",
+          "base_image": "../124/124.png"
+        },
+        {
+          "id": "125",
+          "position": "中上",
+          "base_image": "../125/125.png"
+        },
+        {
+          "id": "126",
+          "position": "右上",
+          "base_image": "../126/126.png"
+        },
+        {
+          "id": "127",
+          "position": "左下",
+          "base_image": "../127/127.png"
+        },
+        {
+          "id": "128",
+          "position": "中下",
+          "base_image": "../128/128.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2333520,
+      "sha256": "58608c21b2c8b1b2011980c17b21603d9f3096b978b04b67728f02751f1bf286",
+      "git_blob_sha1": "f4c1ceb308b2ade1784b5fea038be587c4a80834"
+    },
+    {
+      "group": "26",
+      "filename": "group-26_129_130_131_132_133.png",
+      "path": "groups/group-26_129_130_131_132_133.png",
+      "source_filename": "组26_129_130_131_132_133_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "129",
+          "position": "左上",
+          "base_image": "../129/129.png"
+        },
+        {
+          "id": "130",
+          "position": "中上",
+          "base_image": "../130/130.png"
+        },
+        {
+          "id": "131",
+          "position": "右上",
+          "base_image": "../131/131.png"
+        },
+        {
+          "id": "132",
+          "position": "左下",
+          "base_image": "../132/132.png"
+        },
+        {
+          "id": "133",
+          "position": "中下",
+          "base_image": "../133/133.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2329164,
+      "sha256": "05a5e256737dd9ee192d2b1f263483ad2067249c42169266229a30d93f1975c8",
+      "git_blob_sha1": "7273680f77ce9b72788a92e3f3ca9665018f111c"
+    },
+    {
+      "group": "27",
+      "filename": "group-27_134_135_136_137_138.png",
+      "path": "groups/group-27_134_135_136_137_138.png",
+      "source_filename": "组27_134_135_136_137_138_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "134",
+          "position": "左上",
+          "base_image": "../134/134.png"
+        },
+        {
+          "id": "135",
+          "position": "中上",
+          "base_image": "../135/135.png"
+        },
+        {
+          "id": "136",
+          "position": "右上",
+          "base_image": "../136/136.png"
+        },
+        {
+          "id": "137",
+          "position": "左下",
+          "base_image": "../137/137.png"
+        },
+        {
+          "id": "138",
+          "position": "中下",
+          "base_image": "../138/138.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2353755,
+      "sha256": "ed7cad4fd331b87ffdae697ac962c6b8aef4f7aeba136bee0e410a48d42adc4b",
+      "git_blob_sha1": "6b3a90856ff12199213170ed7c0f13bfdfbb9ee3"
+    },
+    {
+      "group": "28",
+      "filename": "group-28_139_140_141_142_143.png",
+      "path": "groups/group-28_139_140_141_142_143.png",
+      "source_filename": "组28_139_140_141_142_143_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "139",
+          "position": "左上",
+          "base_image": "../139/139.png"
+        },
+        {
+          "id": "140",
+          "position": "中上",
+          "base_image": "../140/140.png"
+        },
+        {
+          "id": "141",
+          "position": "右上",
+          "base_image": "../141/141.png"
+        },
+        {
+          "id": "142",
+          "position": "左下",
+          "base_image": "../142/142.png"
+        },
+        {
+          "id": "143",
+          "position": "中下",
+          "base_image": "../143/143.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2233655,
+      "sha256": "3414840b70287ebe6fb97101780f110691e4bf7af0b5fe7839e1e4fe20c250be",
+      "git_blob_sha1": "0793aba9c682bf2fb9561c1ebbd9a1681a2714f1"
+    },
+    {
+      "group": "29",
+      "filename": "group-29_144_145_146_147_148.png",
+      "path": "groups/group-29_144_145_146_147_148.png",
+      "source_filename": "组29_144_145_146_147_148_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "144",
+          "position": "左上",
+          "base_image": "../144/144.png"
+        },
+        {
+          "id": "145",
+          "position": "中上",
+          "base_image": "../145/145.png"
+        },
+        {
+          "id": "146",
+          "position": "右上",
+          "base_image": "../146/146.png"
+        },
+        {
+          "id": "147",
+          "position": "左下",
+          "base_image": "../147/147.png"
+        },
+        {
+          "id": "148",
+          "position": "中下",
+          "base_image": "../148/148.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2312674,
+      "sha256": "2b99e76847693872dd19d8bfcdef4467993c7b2da5ccfff5b62934714b489c0d",
+      "git_blob_sha1": "9f33e33a1304de11899fdc29e39c58dcb45b7c06"
+    },
+    {
+      "group": "30",
+      "filename": "group-30_149_150_151_152_153.png",
+      "path": "groups/group-30_149_150_151_152_153.png",
+      "source_filename": "组30_149_150_151_152_153_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "149",
+          "position": "左上",
+          "base_image": "../149/149.png"
+        },
+        {
+          "id": "150",
+          "position": "中上",
+          "base_image": "../150/150.png"
+        },
+        {
+          "id": "151",
+          "position": "右上",
+          "base_image": "../151/151.png"
+        },
+        {
+          "id": "152",
+          "position": "左下",
+          "base_image": "../152/152.png"
+        },
+        {
+          "id": "153",
+          "position": "中下",
+          "base_image": "../153/153.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2385148,
+      "sha256": "a9fac7cb37ae6dc04d267f9113e292694d5545f7ce491e91e6de82f4d3f0f4e7",
+      "git_blob_sha1": "e4d79b9acabdf58d4fb127d292438b7ad7cf160e"
+    },
+    {
+      "group": "31",
+      "filename": "group-31_154_155_156_157_159.png",
+      "path": "groups/group-31_154_155_156_157_159.png",
+      "source_filename": "组31_154_155_156_157_159_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "154",
+          "position": "左上",
+          "base_image": "../154/154.png"
+        },
+        {
+          "id": "155",
+          "position": "中上",
+          "base_image": "../155/155.png"
+        },
+        {
+          "id": "156",
+          "position": "右上",
+          "base_image": "../156/156.png"
+        },
+        {
+          "id": "157",
+          "position": "左下",
+          "base_image": "../157/157.png"
+        },
+        {
+          "id": "159",
+          "position": "中下",
+          "base_image": "../159/159.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2300174,
+      "sha256": "42ed460ea175734f1721926a1fa9657a4df7950bf22f49294b01dbcffbb8014e",
+      "git_blob_sha1": "5e7ae39f78a6f55c834a630d413985ea00ac6f9b"
+    },
+    {
+      "group": "32",
+      "filename": "group-32_160_161_162_163_164.png",
+      "path": "groups/group-32_160_161_162_163_164.png",
+      "source_filename": "组32_160_161_162_163_164_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "160",
+          "position": "左上",
+          "base_image": "../160/160.png"
+        },
+        {
+          "id": "161",
+          "position": "中上",
+          "base_image": "../161/161.png"
+        },
+        {
+          "id": "162",
+          "position": "右上",
+          "base_image": "../162/162.png"
+        },
+        {
+          "id": "163",
+          "position": "左下",
+          "base_image": "../163/163.png"
+        },
+        {
+          "id": "164",
+          "position": "中下",
+          "base_image": "../164/164.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2349195,
+      "sha256": "db53d6ea3beae917c66e8e03cf663080ac68506818ff6a038d7748d77aedf260",
+      "git_blob_sha1": "2ac52cd93aadaff57347e1c01da6d3c5a038f265"
+    },
+    {
+      "group": "33",
+      "filename": "group-33_166_167_168_169_170.png",
+      "path": "groups/group-33_166_167_168_169_170.png",
+      "source_filename": "组33_166_167_168_169_170_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "166",
+          "position": "左上",
+          "base_image": "../166/166.png"
+        },
+        {
+          "id": "167",
+          "position": "中上",
+          "base_image": "../167/167.png"
+        },
+        {
+          "id": "168",
+          "position": "右上",
+          "base_image": "../168/168.png"
+        },
+        {
+          "id": "169",
+          "position": "左下",
+          "base_image": "../169/169.png"
+        },
+        {
+          "id": "170",
+          "position": "中下",
+          "base_image": "../170/170.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2287098,
+      "sha256": "db5459ae494291607aacf3890af7bb6aae4790b6bf5d76ef44c62e1acfc7707a",
+      "git_blob_sha1": "0b85e8b96251e65ba57567484b47adaec47f0226"
+    },
+    {
+      "group": "34",
+      "filename": "group-34_171_172_173_174_175.png",
+      "path": "groups/group-34_171_172_173_174_175.png",
+      "source_filename": "组34_171_172_173_174_175_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "171",
+          "position": "左上",
+          "base_image": "../171/171.png"
+        },
+        {
+          "id": "172",
+          "position": "中上",
+          "base_image": "../172/172.png"
+        },
+        {
+          "id": "173",
+          "position": "右上",
+          "base_image": "../173/173.png"
+        },
+        {
+          "id": "174",
+          "position": "左下",
+          "base_image": "../174/174.png"
+        },
+        {
+          "id": "175",
+          "position": "中下",
+          "base_image": "../175/175.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2464906,
+      "sha256": "552af6f2fd0d32b41f7a6ba0a21e2a332a5603bae034b47bdaabf357ba49b011",
+      "git_blob_sha1": "e1441ee1a0d8ef65ccfe778f48ec7510b35a7837"
+    },
+    {
+      "group": "35",
+      "filename": "group-35_176_177_178_179_180.png",
+      "path": "groups/group-35_176_177_178_179_180.png",
+      "source_filename": "组35_176_177_178_179_180_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "176",
+          "position": "左上",
+          "base_image": "../176/176.png"
+        },
+        {
+          "id": "177",
+          "position": "中上",
+          "base_image": "../177/177.png"
+        },
+        {
+          "id": "178",
+          "position": "右上",
+          "base_image": "../178/178.png"
+        },
+        {
+          "id": "179",
+          "position": "左下",
+          "base_image": "../179/179.png"
+        },
+        {
+          "id": "180",
+          "position": "中下",
+          "base_image": "../180/180.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2306464,
+      "sha256": "169966ed68eca3637d36b848dbe9a26e829559eacab2749964c51462328ea04a",
+      "git_blob_sha1": "e84aecf2eedd34b8011f2666e6413bbc6e1744a5"
+    },
+    {
+      "group": "36",
+      "filename": "group-36_181_182_183_184_185.png",
+      "path": "groups/group-36_181_182_183_184_185.png",
+      "source_filename": "组36_181_182_183_184_185_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "181",
+          "position": "左上",
+          "base_image": "../181/181.png"
+        },
+        {
+          "id": "182",
+          "position": "中上",
+          "base_image": "../182/182.png"
+        },
+        {
+          "id": "183",
+          "position": "右上",
+          "base_image": "../183/183.png"
+        },
+        {
+          "id": "184",
+          "position": "左下",
+          "base_image": "../184/184.png"
+        },
+        {
+          "id": "185",
+          "position": "中下",
+          "base_image": "../185/185.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2415392,
+      "sha256": "cb976670737da0c757ea9a4077c7385c92f7e3a5ac0cfcb37e91ec19d20c89bb",
+      "git_blob_sha1": "fa73de8556c2a2681aa63de8be090ca41ff81285"
+    },
+    {
+      "group": "37",
+      "filename": "group-37_186_187_188_189_190.png",
+      "path": "groups/group-37_186_187_188_189_190.png",
+      "source_filename": "组37_186_187_188_189_190_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "186",
+          "position": "左上",
+          "base_image": "../186/186.png"
+        },
+        {
+          "id": "187",
+          "position": "中上",
+          "base_image": "../187/187.png"
+        },
+        {
+          "id": "188",
+          "position": "右上",
+          "base_image": "../188/188.png"
+        },
+        {
+          "id": "189",
+          "position": "左下",
+          "base_image": "../189/189.png"
+        },
+        {
+          "id": "190",
+          "position": "中下",
+          "base_image": "../190/190.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2305171,
+      "sha256": "d77d1ce79e4bb4cf9c3a41c820f43f92615c3e76849c598c45a5af8836d3ccc7",
+      "git_blob_sha1": "f0e9758f03ce8f1d3e8609ca0e07266024037747"
+    },
+    {
+      "group": "38",
+      "filename": "group-38_191_192_193_194_195.png",
+      "path": "groups/group-38_191_192_193_194_195.png",
+      "source_filename": "组38_191_192_193_194_195_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "191",
+          "position": "左上",
+          "base_image": "../191/191.png"
+        },
+        {
+          "id": "192",
+          "position": "中上",
+          "base_image": "../192/192.png"
+        },
+        {
+          "id": "193",
+          "position": "右上",
+          "base_image": "../193/193.png"
+        },
+        {
+          "id": "194",
+          "position": "左下",
+          "base_image": "../194/194.png"
+        },
+        {
+          "id": "195",
+          "position": "中下",
+          "base_image": "../195/195.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2332241,
+      "sha256": "7b901918beac2cfab9d343427a39a3bc51b4fe77d425452f254b5be763b98097",
+      "git_blob_sha1": "dd468f9f557e648b2b2fc9b12d9d04f4a4fc17b9"
+    },
+    {
+      "group": "39",
+      "filename": "group-39_196_197_198_199_200.png",
+      "path": "groups/group-39_196_197_198_199_200.png",
+      "source_filename": "组39_196_197_198_199_200_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "196",
+          "position": "左上",
+          "base_image": "../196/196.png"
+        },
+        {
+          "id": "197",
+          "position": "中上",
+          "base_image": "../197/197.png"
+        },
+        {
+          "id": "198",
+          "position": "右上",
+          "base_image": "../198/198.png"
+        },
+        {
+          "id": "199",
+          "position": "左下",
+          "base_image": "../199/199.png"
+        },
+        {
+          "id": "200",
+          "position": "中下",
+          "base_image": "../200/200.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2417046,
+      "sha256": "7f9d69b73a0818ac963b19b8cb9d7713c8dca086d68b128a0c795b4cc02628ed",
+      "git_blob_sha1": "ccd99ce8f0dd48f8f0040dc331f2f6907b814f00"
+    },
+    {
+      "group": "40",
+      "filename": "group-40_201_202_203_204_205.png",
+      "path": "groups/group-40_201_202_203_204_205.png",
+      "source_filename": "组40_201_202_203_204_205_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "201",
+          "position": "左上",
+          "base_image": "../201/201.png"
+        },
+        {
+          "id": "202",
+          "position": "中上",
+          "base_image": "../202/202.png"
+        },
+        {
+          "id": "203",
+          "position": "右上",
+          "base_image": "../203/203.png"
+        },
+        {
+          "id": "204",
+          "position": "左下",
+          "base_image": "../204/204.png"
+        },
+        {
+          "id": "205",
+          "position": "中下",
+          "base_image": "../205/205.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2312328,
+      "sha256": "a03efee74689f25f97256f0ee262f36d40a3c669260a2e369c8194c86e4944a3",
+      "git_blob_sha1": "ef212c2bec870fb422838888ac89a32bbd29b11e"
+    },
+    {
+      "group": "41",
+      "filename": "group-41_206_207_208_209_210.png",
+      "path": "groups/group-41_206_207_208_209_210.png",
+      "source_filename": "组41_206_207_208_209_210_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "206",
+          "position": "左上",
+          "base_image": "../206/206.png"
+        },
+        {
+          "id": "207",
+          "position": "中上",
+          "base_image": "../207/207.png"
+        },
+        {
+          "id": "208",
+          "position": "右上",
+          "base_image": "../208/208.png"
+        },
+        {
+          "id": "209",
+          "position": "左下",
+          "base_image": "../209/209.png"
+        },
+        {
+          "id": "210",
+          "position": "中下",
+          "base_image": "../210/210.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2313804,
+      "sha256": "aaf2699f1a0e6a831c3fe179e119fdda86e257ac3badba07235ee50e69e9f026",
+      "git_blob_sha1": "cf8c774cbac6910485352078c40d8a8d9ea4ebe9"
+    },
+    {
+      "group": "42",
+      "filename": "group-42_211_212_213_214_215.png",
+      "path": "groups/group-42_211_212_213_214_215.png",
+      "source_filename": "组42_211_212_213_214_215_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "211",
+          "position": "左上",
+          "base_image": "../211/211.png"
+        },
+        {
+          "id": "212",
+          "position": "中上",
+          "base_image": "../212/212.png"
+        },
+        {
+          "id": "213",
+          "position": "右上",
+          "base_image": "../213/213.png"
+        },
+        {
+          "id": "214",
+          "position": "左下",
+          "base_image": "../214/214.png"
+        },
+        {
+          "id": "215",
+          "position": "中下",
+          "base_image": "../215/215.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2214466,
+      "sha256": "553c9141d5b5932d3370a75d834018282cc7d529173852b198578d903ffdb51d",
+      "git_blob_sha1": "4f5ed55454c792bbdd92926dadd45766c1745d28"
+    },
+    {
+      "group": "43",
+      "filename": "group-43_216_217_218_219_220.png",
+      "path": "groups/group-43_216_217_218_219_220.png",
+      "source_filename": "组43_216_217_218_219_220_抬头看镜头_5角色.png",
+      "character_count": 5,
+      "characters": [
+        {
+          "id": "216",
+          "position": "左上",
+          "base_image": "../216/216.png"
+        },
+        {
+          "id": "217",
+          "position": "中上",
+          "base_image": "../217/217.png"
+        },
+        {
+          "id": "218",
+          "position": "右上",
+          "base_image": "../218/218.png"
+        },
+        {
+          "id": "219",
+          "position": "左下",
+          "base_image": "../219/219.png"
+        },
+        {
+          "id": "220",
+          "position": "中下",
+          "base_image": "../220/220.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2396967,
+      "sha256": "76120652dd5485e28529bf9b9291a2f171c4d8ea20b784062c120a010a7eb577",
+      "git_blob_sha1": "c080e62de5de73ded29937cbc4ba33b3c7576c6d"
+    },
+    {
+      "group": "44",
+      "filename": "group-44_221_222.png",
+      "path": "groups/group-44_221_222.png",
+      "source_filename": "组44_221_222_抬头看镜头_2角色.png",
+      "character_count": 2,
+      "characters": [
+        {
+          "id": "221",
+          "position": "左上",
+          "base_image": "../221/221.png"
+        },
+        {
+          "id": "222",
+          "position": "中上",
+          "base_image": "../222/222.png"
+        }
+      ],
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1501733,
+      "sha256": "63b0721170566bd580c04753f2ff7385e3b7252b560360c7e20f27f7bdee6a4f",
+      "git_blob_sha1": "d6533b7e9e7a47e8a3e9f048e47518520d66016e"
+    }
+  ]
+}
